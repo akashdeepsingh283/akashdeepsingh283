@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akashdeepsingh283
+- 👋 Hi, I’m Akashdeep singh
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently persuing B-tech from IIT-BHU
 - 📫 You can reach me through Instagram ans linkedin
